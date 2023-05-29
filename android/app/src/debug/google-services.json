@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226471582880",
+    "project_id": "chatit-f9052",
+    "storage_bucket": "chatit-f9052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226471582880:android:629f76825e16c996c8bdc5",
+        "android_client_info": {
+          "package_name": "com.example.chating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226471582880-snuh4amt0b9kdc5196kpm64rv26bo4il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbO8-UacpAKpeiQkEcwsH53xX6y3c-cUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226471582880-snuh4amt0b9kdc5196kpm64rv26bo4il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
